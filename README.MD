@@ -1,6 +1,6 @@
 ## Basics
  read about basics [here](https://www.cashbackforex.com/article/basic-structure-of-an-expert-advisor)
-##Input propeties
+## Input propeties
 To define a variable itse value can be set by user, use input keyword:
 ```
 input int MaxStopLoss=5000;  
