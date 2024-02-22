@@ -27,6 +27,7 @@ int OnInit()
 ```
 OnCalculate is the repeating event for each candle
 
+[Example1](https://book.mql4.com/samples/icustom)
 ## Exper Advisor ( EA )
 
 this is the template :
