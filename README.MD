@@ -1,6 +1,6 @@
 
 ## Indicator
-Every mql4 (indicator)[https://docs.mql4.com/customind] needs at list one array of doubles to keep value of prices of line of the indicator
+Every mql4 [indicator](https://docs.mql4.com/customind) needs at list one array of doubles to keep value of prices of line of the indicator
 ```
 double buf0[];
 ```
