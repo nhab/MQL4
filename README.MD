@@ -1,3 +1,8 @@
+##Input propeties
+To define a variable itse value can be set by user, use input keyword:
+```
+input int MaxStopLoss=5000;  
+```
 ## Indicator and Expert advisor difference ( programatically )
 Indicatore uses OnInit() and OnCalculator events, but
 EA usees Init() and Start() events
